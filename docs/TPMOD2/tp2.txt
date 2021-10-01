@@ -1,0 +1,30 @@
+anggota
+1. id_anggota
+2. nama_anggota
+3. no_telp_anggota
+4. masa_berlaku
+
+pegawai
+1. id_pegawai
+2. nama_pegawai
+3. no_telp_pegawai
+4. password_pegawai
+
+peminjaman
+1. kode_pinjam
+2. tanggal_pinjam
+3. tanggal_kembali
+4. kode_buku
+
+pengembalian
+1. tanggal_kembali
+2. kode_buku
+
+buku
+1. kode_buku
+2. judul_buku
+3. jumlah_buku
+4. pengarang_buku
+5. penerbit_buku
+6. status_buku
+7. tahun_buku

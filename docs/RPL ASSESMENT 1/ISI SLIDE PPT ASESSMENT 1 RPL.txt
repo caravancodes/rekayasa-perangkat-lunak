@@ -1,0 +1,23 @@
+[ISI SLIDE PPT ASESSMENT 1 RPL]
+
+# TUJUAN
+Tujuan Pengembangan :
+- Dapat memotivasi user yang sering melupakan waktu sholat
+- Dapat memudahkan user dalam mencatat amal ibadah setiap waktu
+- Dapat memantau amal user dalam kegiatan sehari hari
+- Mengembangkan system yang dapat membantu muslim untuk mencatat ibadah setiap hari.
+Manfaat Pengembangan :
+- Untuk memperbaiki dan meningkatkan kualitas ibadah user
+- Untuk pengingat sholat
+- Membantu user muslim dalam mencatat amal ibadah sholat
+# DESKRIPSI SISTEM
+# FUNGSIONALITAS SISTEM
+- Melihat jadwal ibadah
+- Mencatat jam sholat
+- Melihat arah kiblat
+- Tutorial Sholat
+- Tutorial Wudlu’
+- Statistik ibadah
+# USE CASE
+# CLASS DIAGRAM
+# ERD

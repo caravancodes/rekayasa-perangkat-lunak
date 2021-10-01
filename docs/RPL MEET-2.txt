@@ -1,0 +1,19 @@
+REKAYASA PERANGKAT LUNAK
+MEET2 26 JANUARI 2018
+
+Requirements Engineering adalah fase terdepan dari proses rekayasa perangkat lunak (software engineering), dimana software requirements (kebutuhan) dari user (pengguna) dan customer (pelanggan) dikumpulkan. dipahami dan ditetapkan.
+
+(Membahasakan dari bahasa user menjadi bahasa teknik)
+
+Requirements engineering adalah suatu pekerjaan yang sangat penting.
+kebanyakan kegagalan pengembangan software disebabkan :
+- Ketidak konsistenan
+- Ketidak kelengkapan
+- Ketidak benaran
+
+Hasil dari fase requirements engineering terdokumentasi dalam requirements specification
+
+Sistemasi proses negosisasi :
+- Elicitation
+- Specification
+- Validation dan verification
